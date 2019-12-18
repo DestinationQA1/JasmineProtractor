@@ -1,3 +1,5 @@
+//npm install jasmine-data-provider
+//npm install @types/jasmine-data-provider 
 import * as using from 'jasmine-data-provider';
 //const using = require('jasmine-data-provider');
 describe("Jasmine test suite", function () {
